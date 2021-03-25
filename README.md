@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ahmedshafik
+- 👀 I’m interested in DevOps and Automation
+- 🌱 I’m currently learning Architecting
+- 📫 How to reach me a.y.shafik93@gmail.com
